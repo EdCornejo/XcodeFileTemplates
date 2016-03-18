@@ -8,7 +8,6 @@
  *  Each engineer has a duty to keep the code elegant.
  */
 
-
 #import "___FILEBASENAME___.h"
 
 @implementation ___FILEBASENAMEASIDENTIFIER___
