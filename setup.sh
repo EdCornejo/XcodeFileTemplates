@@ -9,7 +9,7 @@ then
     folderName=$1
 elif [ "$#" -gt 1 ]
 then
-    echo -e "This script takes one argument at most.\\ne.g. install.sh \"BattleStation\""
+    echo -e "This script takes one argument at most.\\ne.g. setup.sh \"BattleStation\""
     exit 1
 fi
 
